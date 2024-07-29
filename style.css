@@ -28,7 +28,7 @@ button {
     background-color: white;
 }
 
-div {
+#color-display {
     width: 500px;
     height: 500px;
     border: 3px solid black;
